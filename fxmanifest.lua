@@ -29,3 +29,5 @@ files {
 	'Web/*.html',
 	'Web/js/*.js'
 }
+
+ui_page 'Web/index.html'
