@@ -42,3 +42,4 @@ escrow_ignore {
 ui_page 'Web/index.html'
 
 lua54 'yes'
+dependency '/assetpacks'
