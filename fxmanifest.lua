@@ -35,6 +35,7 @@ files {
 }
 
 escrow_ignore {
+  'Shared/EventProtection.lua',
   'Configs/*.lua',
   'Web/*.*',
   'Web/js/*.*'
