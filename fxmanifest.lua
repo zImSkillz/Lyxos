@@ -10,8 +10,6 @@
 						> Let's Ban the Cheater
 ]]--
 
--- TEST
-
 fx_version 'cerulean'
 games { 'gta5' }
 
