@@ -15,86 +15,104 @@ Lyxos Anticheat is a FiveM Anticheat, from server owner to server owner
 
 ### Detections:
 ```
-      Client:
-      
-- Anti Damage Modifier
-- Anti GodMode (global, v1, v2)
-- Anti Player Rape
-- Anti Max Health
-- Anti Cheat Engine
-- Anti Explosive Ammo
-- Anti Speed Hacks
-- Nui Detection
-- Ped Allow list
-- Spectate Detection
-- Anti Noclip
-- Anti Invisible
-- Anti Super Jump
-- Anti Thermal Vision
-- Anti Night Vision
-- Planke CK Detection
-- Anti Menyoo
-- Anti Aoratos Detection
-- Anti Suicide
-- Lynx Detection
-- Anti Freecam
-- Cam Distance
-- Resource Detection
-- Bypass Detection
-- Destroy Detection
-- Player Protection
-- Anti Bloom Damage
-- Blips Detection
-- Old Ham Detection
-- Pickup Detection
-- Dump Detection
-- Teleport Detection
-- Anti Key Press
-- Anti Delete, Home, Insert, Custom
-- Rainbow Vehicle Detection
-- Texture Detection
-- Anti Aimbot
-- Anti Tiny Ped
-and much more...
+Client Sided:
+> 🛡️ Anti Damage Modifier
+> 🛡️ Anti GodMode Timer
+> 🛡️ Anti Player Rape
+> 🛡️ Max Health
+> 🛡️ Anti GodMode (General)
+> 🛡️ Anti GodMode (Version 1.)
+> 🛡️ Anti GodMode (Version 2.)
+> 🛡️ Anti Cheat Engine
+> 🛡️ AntiExplosiveAmmo
+> 🛡️ Anti Speed Hacks
+> 🛡️ Nui Detection
+> 🛡️ Ped Allow list
+> 🛡️ Spectate Detaction
+> 🛡️ Anti Noclip
+> 🛡️ Anti Invisible
+> 🛡️ Anti Super Jump
+> 🛡️ Anti Thermal Vision
+> 🛡️ Planke Ck Detection
+> 🛡️ Anti Menyoo
+> 🛡️ Anti Aoratos Detection 
+> 🛡️ Anti Suicide 
+> 🛡️ Anti Taze Player
+> 🛡️ Lynx Detection
+> 🛡️ Anti Freecam
+> 🛡️ Cam Distance
+> 🛡️ Resource Detection
+> 🛡️ Bypass Detection
+> 🛡️ Destroy Detection
+> 🛡️ Player Protection
+> 🛡️ Anti Boom Damage
+> 🛡️ Blips Detection
+> 🛡️ Old Ham Detection 
+> 🛡️ Pickup Detection
+> 🛡️ Dump Detection
+> 🛡️ Teleport Detection
+> 🛡️ Anti Eulen AK47
+> 🛡️ Anti Key Press
+> 🛡️ Anti Key (INSERT) - Should automatically kick Eulen
+> 🛡️ Anti Key Delete
+> 🛡️ Anti Key Home
+> 🛡️ Anti Key Custom
+> 🛡️ Anti Key Custom
+> 🛡️ Rainbow Vehicle Detection
+> 🛡️ Texture Detection
+> 🛡️ Anti Aimbot
+> 🛡️ Anti Tiny Ped
+> 🛡️ Client Trigger Protection
+> and much more....
 
-      Server:
-      
-- Discord /Main /Bypass /License /Anticheat start /Connect /Dissconnect Webhook log
-- Taze Detection
-- Anti Particle Detection
-- Scrambler Injection Detection
-- Planke Ck Detection
-- Stamina Detection
-- Whitelist Ped Models
-- Blacklisted Models
-- Get Resource Detection
-- Explosion Detection
-- Give Weapon Detection
-- Remove Weapon Detection
-- Clear Ped Task Detection
-- Ped Spawn Detection
-- Nuke Detection
-- Vehicle Spawn Detection
-- Anti VPN
-- Anti Particles
-- Anti Blacklisted Words
-- Anti Fake Chat
-- Trigger Protection
-- Name Protection
-- Anti Resource Start/stop
-- Blacklisted Resources
-and much more...
 
-      Special:
-      
-- Anti RedEngine ~BETA
-- Anti Eulen ~BETA
-- Anti Fallout ~BETA
-- Anti Dopimine ~BETA
-- Anti Lua Injection
-- Lua Mod Menus Auto Detection
-- Screen Word Detection
-- Global Var Detection
-- Function Detection
-- Local Detection
+<================- ~ -================>
+
+
+Server Sided: 
+> 🛡️ Discord /Main /Bypass /License /Anticheat start /Connect /Dissconnect Webhook log
+> 🛡️ Taze Detection
+> 🛡️ Anti Particle Detection
+> 🛡️ Scrambler Injection Detection 
+> 🛡️ Planke Ck Detection 
+> 🛡️ Stamina Detection 
+> 🛡️ Whitelist Ped Models 
+> 🛡️ Blacklisted Models 
+> 🛡️ Get Resource Detection 
+> 🛡️ Explosion Detection
+> 🛡️ Give Weapon Detection
+> 🛡️ Remove Weapon Detection
+> 🛡️ Clear Ped Task Detection
+> 🛡️ Ped Spawn Detection
+> 🛡️ Nuke Detection
+> 🛡️ Vehicle Spawn Detection
+> 🛡️ Anti VPN
+> 🛡️ Anti Server Crasher
+> 🛡️ Anti ESX Money Dupe
+> 🛡️ Anti Name Changer
+> 🛡️ Anti Particles 
+> 🛡️ Anti Blacklisted Words
+> 🛡️ Anti Fake Chat
+> 🛡️ Trigger Protection 
+> 🛡️ Name Protection
+> 🛡️ Anti Resource Start/stop
+> 🛡️ Blacklisted Resources
+> and much more....
+
+
+<================- ~ -================>
+
+Special:
+> 🛡️ Anti RedEngine ~BETA CURRENTLY NOT WORKING
+> 🛡️ Anti Eulen ~BETA CURRENTLY NOT WORKING
+> 🛡️ Anti Fallout ~BETA
+> 🛡️ Anti Dopimine ~BETA
+> 🛡️ Anti Lua Injection
+> 🛡️ Lua Mod Menus Auto Detection
+> 🛡️ Screen Word Detection
+> 🛡️ Global Var Detection
+> 🛡️ Function Detection
+> 🛡️ Local Detection 
+> 🛡️ Anti Void Teleport
+> 🛡️ Anti Grab Vehicles
 ```
