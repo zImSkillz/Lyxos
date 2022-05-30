@@ -8,7 +8,7 @@ Lyxos Anticheat is a FiveM Anticheat, from server owner to server owner
 
 ### Find us:
 - https://dsc.gg/lyxos
-- https://spambude.net/panel/
+- https://lyxos.de/
 
 ```We accept any suggestion or criticism. If you have any suggestions or criticism, let us know. 🙏```
 
