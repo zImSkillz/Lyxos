@@ -6,6 +6,11 @@ Lyxos Anticheat is a FiveM Anticheat, from server owner to server owner
 - Created by zImSkillz#4906
 - PAID
 
+### Price:
+- Weekly: 10€/ $
+- Monthly: ~~40€/ $~~ 25€/ $
+- Lifetime: 50€/ $
+
 ### Find us:
 - https://dsc.gg/lyxos
 - https://lyxos.de/
