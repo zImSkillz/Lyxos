@@ -1,5 +1,4 @@
 --[[
-
 				██╗  ██╗   ██╗██╗  ██╗ ██████╗ ███████╗
 				██║  ╚██╗ ██╔╝╚██╗██╔╝██╔═══██╗██╔════╝
 				██║   ╚████╔╝  ╚███╔╝ ██║   ██║███████╗
@@ -30,8 +29,10 @@ server_scripts {
 }
 
 files {
+	'Web/*.css',
 	'Web/*.html',
-	'Web/js/*.js'
+	'Web/js/*.js',
+	'Web/img/*.png'
 }
 
 escrow_ignore {
@@ -45,4 +46,3 @@ escrow_ignore {
 ui_page 'Web/index.html'
 
 lua54 'yes'
-dependency '/assetpacks'
