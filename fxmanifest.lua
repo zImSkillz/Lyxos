@@ -17,7 +17,7 @@ author 'zImSkillz'
 shared_script 'Shared/EventProtection.lua'
 
 client_scripts {
-    '@menuv/menuv.lua',
+    '@Lyxos-MenuAPI/menuv.lua',
     'Configs/Config-Client.lua',
     'Client/*.lua'
 }
